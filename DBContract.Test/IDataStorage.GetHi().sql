@@ -1,0 +1,1 @@
+﻿select dats from model.dbo.[Table] where id = 1
